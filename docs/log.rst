@@ -11,8 +11,8 @@ Command Syntax
 ============================
 Setting/Removing Log Channel
 ============================
-To set the log channel, use ``b-log set`` followed by the channel mention
+To set the log channel, use ``b-log set`` followed by the channel mention. Exmaple:
 
-**Setting log channel exmaple:** ``b-log set #ChannelMention``
+**Setting log channel:** ``b-log set #ChannelMention``
 
 To remove it, use ``b-log remove``.

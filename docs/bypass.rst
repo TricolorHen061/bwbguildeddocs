@@ -16,12 +16,12 @@ To view bypassing roles, use ``b-bypass view``.
 =====================================
 Adding/Removing bypass roles/channels
 =====================================
-To add a role or channel, use the ``add`` option, followed by the role or channel mention. Same with the ``remove`` option.
+To add a role or channel, use the ``add`` option, followed by the role or channel mention. Same with the ``remove`` option. Exmaples:
 
-**Add role example:** ``b-bypass add role @RoleMention``
+**Add role:** ``b-bypass add role @RoleMention``
 
-**Remove role example:** ``b-bypass remove role @RoleMention``
+**Remove role:** ``b-bypass remove role @RoleMention``
 
-**Add channel example:** ``b-bypass add channel @ChannelMention``
+**Add channel:** ``b-bypass add channel @ChannelMention``
 
-**Remove channel example:** ``b-bypass remove channel @ChannelMention``
+**Remove channel:** ``b-bypass remove channel @ChannelMention``

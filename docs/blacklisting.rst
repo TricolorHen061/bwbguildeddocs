@@ -21,14 +21,14 @@ Editing The Blacklist
 =====================
 The bot can block three types of items: words, phrases, and links. Use the ``add`` or ``remove`` options to add/remove items. Exmaples:
 
-**Adding words example:** ``b-blacklist add words word1, word2, word3``
+**Adding words:** ``b-blacklist add words word1, word2, word3``
 
-**Adding phrases example:** ``b-blacklist add phrases some phrase 1, some phrase 2, another phrase``
+**Adding phrases:** ``b-blacklist add phrases some phrase 1, some phrase 2, another phrase``
 
-**Adding links example:** ``b-blacklist add links https://link1.com, https://link2.com, https://anotherlink.com``
+**Adding links:** ``b-blacklist add links https://link1.com, https://link2.com, https://anotherlink.com``
 
-**Removing words example:** ``b-blacklist remove words word1, word2, word3``
+**Removing words:** ``b-blacklist remove words word1, word2, word3``
 
-**Removing phrases example:** ``b-blacklist remove phrases some phrase 1, some phrase 2, another phrase``
+**Removing phrases:** ``b-blacklist remove phrases some phrase 1, some phrase 2, another phrase``
 
-**Removing links example:** ``b-blacklist remove links https://link1.com, https://link2.com, https://anotherlink.com``
+**Removing links:** ``b-blacklist remove links https://link1.com, https://link2.com, https://anotherlink.com``

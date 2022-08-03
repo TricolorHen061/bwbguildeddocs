@@ -18,8 +18,8 @@ Run ``b-mod view`` to view the IDs of the current mod roles.
 ===============================
 Adding/Removing Moderator Roles
 ===============================
-Use the ``add`` or ``remove`` options to add/remove moderator roles, followed by the role mention.
+Use the ``add`` or ``remove`` options to add/remove moderator roles, followed by the role mention. Exmaple:
 
-**Add mod role example:** ``b-mod add @RoleMention``
+**Add mod role:** ``b-mod add @RoleMention``
 
-**Remove mod role example:** ``b-mod remove @RoleMention``
+**Remove mod role:** ``b-mod remove @RoleMention``

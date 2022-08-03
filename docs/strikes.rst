@@ -21,6 +21,6 @@ View someone else's strikes: ``b-strikes view @Member``
 ===============
 Setting Strikes
 ===============
-You can set the strikes of someone else, or yours, with ``b-strikes set``.
+You can set the strikes of someone else, or yours, with ``b-strikes set``. Example:
 
-**Setting 5 strikes on a member exmaple:** ``b-strikes set 1 @MemberMention``
+**Setting 5 strikes on a member:** ``b-strikes set 1 @MemberMention``

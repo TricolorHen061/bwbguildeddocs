@@ -18,7 +18,7 @@ To view existing limits, run ``b-limits view``.
 ======================
 Adding/removing limits
 ======================
-To add a limit, use the ``add`` option, followed by the amount and action.
+To add a limit, use the ``add`` option, followed by the amount and action. Exmaples:
 
 **Adding a limit of a kick upon receiving 2 strikes:** ``b-limits add 2 kick``
 
