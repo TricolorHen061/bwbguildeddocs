@@ -6,22 +6,22 @@ Sometimes, you'll want to extempt people from the bot's filter. You can extempt 
 ==============
 Command syntax
 ==============
-``b-bypass (add|remove|view) (role|channel) (role or channel mention here)``
+``b-byp (add|remove|view) (role|channel) (role or channel mention here)``
 
 =======================
 Viewing bypassing roles
 =======================
-To view bypassing roles, use ``b-bypass view``.
+To view bypassing roles, use ``b-byp view``.
 
 =====================================
 Adding/Removing bypass roles/channels
 =====================================
 To add a role or channel, use the ``add`` option, followed by the role or channel mention. Same with the ``remove`` option. Exmaples:
 
-**Add role:** ``b-bypass add role @RoleMention``
+**Add role:** ``b-byp add role @RoleMention``
 
-**Remove role:** ``b-bypass remove role @RoleMention``
+**Remove role:** ``b-byp remove role @RoleMention``
 
-**Add channel:** ``b-bypass add channel @ChannelMention``
+**Add channel:** ``b-byp add channel @ChannelMention``
 
-**Remove channel:** ``b-bypass remove channel @ChannelMention``
+**Remove channel:** ``b-byp remove channel @ChannelMention``
