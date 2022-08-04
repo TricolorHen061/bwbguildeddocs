@@ -1,7 +1,7 @@
 ############
 Blacklisting
 ############
-
+ 
 Obviously, the bot is made for censoring messages containing bad words. phrases, and links. The blacklist allows you to acheive this.
 
 ==============
