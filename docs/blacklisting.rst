@@ -32,3 +32,6 @@ The bot can block three types of items: words, phrases, and links. Use the ``add
 **Removing phrases:** ``b-blkst remove phrases some phrase 1, some phrase 2, another phrase``
 
 **Removing links:** ``b-blkst remove links https://link1.com, https://link2.com, https://anotherlink.com``
+
+.. warning:: 
+    If you are adding non-swear words to the ``words`` section, you need to add either an underscore ``_`` or star ``*`` in front of those words.
